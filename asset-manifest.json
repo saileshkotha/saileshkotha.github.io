@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://kotha.me/static/css/main.2f777b92.chunk.css",
-    "main.js": "https://kotha.me/static/js/main.b3db793d.chunk.js",
-    "main.js.map": "https://kotha.me/static/js/main.b3db793d.chunk.js.map",
+    "main.js": "https://kotha.me/static/js/main.1b355dcb.chunk.js",
+    "main.js.map": "https://kotha.me/static/js/main.1b355dcb.chunk.js.map",
     "runtime~main.js": "https://kotha.me/static/js/runtime~main.1d15e1a8.js",
     "runtime~main.js.map": "https://kotha.me/static/js/runtime~main.1d15e1a8.js.map",
     "static/css/2.5dbdccff.chunk.css": "https://kotha.me/static/css/2.5dbdccff.chunk.css",
     "static/js/2.a0d7c67d.chunk.js": "https://kotha.me/static/js/2.a0d7c67d.chunk.js",
     "static/js/2.a0d7c67d.chunk.js.map": "https://kotha.me/static/js/2.a0d7c67d.chunk.js.map",
     "index.html": "https://kotha.me/index.html",
-    "precache-manifest.db62dc2904571a8318cc190267039674.js": "https://kotha.me/precache-manifest.db62dc2904571a8318cc190267039674.js",
+    "precache-manifest.0cf3df12ea615fbb59b6461a39aacd57.js": "https://kotha.me/precache-manifest.0cf3df12ea615fbb59b6461a39aacd57.js",
     "service-worker.js": "https://kotha.me/service-worker.js",
     "static/css/2.5dbdccff.chunk.css.map": "https://kotha.me/static/css/2.5dbdccff.chunk.css.map",
     "static/css/main.2f777b92.chunk.css.map": "https://kotha.me/static/css/main.2f777b92.chunk.css.map"
