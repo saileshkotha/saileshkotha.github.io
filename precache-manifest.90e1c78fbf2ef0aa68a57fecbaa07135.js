@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf4d40f6a0b2c9e42f9d675290061b3f",
+    "revision": "4836737bf7de370220ae6f16f33e276d",
     "url": "https://kotha.me/index.html"
   },
   {
-    "revision": "484d401c220ab52aa105",
+    "revision": "0bc3a7c1dc94df5e4e9f",
     "url": "https://kotha.me/static/css/2.5dbdccff.chunk.css"
   },
   {
-    "revision": "71322afeaf8237155df3",
+    "revision": "339fb5c62fa7880a4ef8",
     "url": "https://kotha.me/static/css/main.e5cb4bfb.chunk.css"
   },
   {
-    "revision": "484d401c220ab52aa105",
-    "url": "https://kotha.me/static/js/2.15705574.chunk.js"
+    "revision": "0bc3a7c1dc94df5e4e9f",
+    "url": "https://kotha.me/static/js/2.fce019ce.chunk.js"
   },
   {
-    "revision": "71322afeaf8237155df3",
-    "url": "https://kotha.me/static/js/main.81f0a553.chunk.js"
+    "revision": "339fb5c62fa7880a4ef8",
+    "url": "https://kotha.me/static/js/main.e8135e91.chunk.js"
   },
   {
     "revision": "04b44f02dae5e99a71d9",
